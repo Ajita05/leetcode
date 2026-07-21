@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/Ajita05/leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Ajita05/leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ajita05/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Number Theory
