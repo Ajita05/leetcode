@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ajita05/leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ajita05/leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -42,4 +43,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ajita05/leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ajita05/leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ajita05/leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ajita05/leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
