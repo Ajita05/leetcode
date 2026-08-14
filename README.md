@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/Ajita05/leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ajita05/leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Ajita05/leetcode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ajita05/leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ajita05/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ajita05/leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ajita05/leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -63,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ajita05/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ajita05/leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
