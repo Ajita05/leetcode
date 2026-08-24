@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Ajita05/leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1563-stone-game-v](https://github.com/Ajita05/leetcode/tree/main/1563-stone-game-v/) | Hard |
+| [1872-stone-game-viii](https://github.com/Ajita05/leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ajita05/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/Ajita05/leetcode/tree/main/2029-stone-game-ix/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Ajita05/leetcode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
@@ -23,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/Ajita05/leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Ajita05/leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [1563-stone-game-v](https://github.com/Ajita05/leetcode/tree/main/1563-stone-game-v/) | Hard |
+| [1872-stone-game-viii](https://github.com/Ajita05/leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/Ajita05/leetcode/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ajita05/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/Ajita05/leetcode/tree/main/2029-stone-game-ix/) | Medium |
@@ -77,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ajita05/leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [1563-stone-game-v](https://github.com/Ajita05/leetcode/tree/main/1563-stone-game-v/) | Hard |
+| [1872-stone-game-viii](https://github.com/Ajita05/leetcode/tree/main/1872-stone-game-viii/) | Hard |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1872-stone-game-viii](https://github.com/Ajita05/leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/Ajita05/leetcode/tree/main/2029-stone-game-ix/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -112,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1563-stone-game-v](https://github.com/Ajita05/leetcode/tree/main/1563-stone-game-v/) | Hard |
+| [1872-stone-game-viii](https://github.com/Ajita05/leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/Ajita05/leetcode/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/Ajita05/leetcode/tree/main/2029-stone-game-ix/) | Medium |
 ## Nim Game
@@ -121,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1872-stone-game-viii](https://github.com/Ajita05/leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/Ajita05/leetcode/tree/main/2029-stone-game-ix/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -134,4 +140,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ajita05/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1872-stone-game-viii](https://github.com/Ajita05/leetcode/tree/main/1872-stone-game-viii/) | Hard |
 <!---LeetCode Topics End-->
