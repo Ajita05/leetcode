@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Ajita05/leetcode/tree/main/0001-two-sum/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Ajita05/leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1563-stone-game-v](https://github.com/Ajita05/leetcode/tree/main/1563-stone-game-v/) | Hard |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ajita05/leetcode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Ajita05/leetcode/tree/main/0001-two-sum/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/Ajita05/leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1386-cinema-seat-allocation](https://github.com/Ajita05/leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ajita05/leetcode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
