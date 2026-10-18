@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Ajita05/leetcode/tree/main/0001-two-sum/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Ajita05/leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1563-stone-game-v](https://github.com/Ajita05/leetcode/tree/main/1563-stone-game-v/) | Hard |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ajita05/leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ajita05/leetcode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1872-stone-game-viii](https://github.com/Ajita05/leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ajita05/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/Ajita05/leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Ajita05/leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [1563-stone-game-v](https://github.com/Ajita05/leetcode/tree/main/1563-stone-game-v/) | Hard |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ajita05/leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1872-stone-game-viii](https://github.com/Ajita05/leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/Ajita05/leetcode/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ajita05/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -131,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/Ajita05/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/Ajita05/leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1563-stone-game-v](https://github.com/Ajita05/leetcode/tree/main/1563-stone-game-v/) | Hard |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ajita05/leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1872-stone-game-viii](https://github.com/Ajita05/leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ajita05/leetcode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Manacher
@@ -197,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ajita05/leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ajita05/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -210,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ajita05/leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ajita05/leetcode/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -251,4 +256,28 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Ajita05/leetcode/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ajita05/leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ajita05/leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ajita05/leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ajita05/leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ajita05/leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Fermat's Little Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ajita05/leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 <!---LeetCode Topics End-->
