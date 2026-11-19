@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Ajita05/leetcode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ajita05/leetcode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ajita05/leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Ajita05/leetcode/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Ajita05/leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Ajita05/leetcode/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ajita05/leetcode/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2029-stone-game-ix](https://github.com/Ajita05/leetcode/tree/main/2029-stone-game-ix/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ajita05/leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ajita05/leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Ajita05/leetcode/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Ajita05/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -127,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ajita05/leetcode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Ajita05/leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ajita05/leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Ajita05/leetcode/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ajita05/leetcode/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ajita05/leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 ## Two Pointers
